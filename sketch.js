@@ -6,7 +6,7 @@
   // Classifier Variable
   let classifier;
   // Model URL
-  let imageModelURL = 'https://teachablemachine.withgoogle.com/models/ci7J_4eua/';
+  let imageModelURL = 'https://teachablemachine.withgoogle.com/models/UPLec0aNS/';
   
   // Video
   let video;
